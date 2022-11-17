@@ -10,6 +10,7 @@ public class Test_Salaryslip {
             int id = sc.nextInt();
             System.out.println("Enter Employee Designation");
             String designation = sc.nextLine();
+            designation = sc.nextLine();
             System.out.println("Enter Employee Department");
             String department = sc.nextLine();
             System.out.println("Enter Employee Basic Salary");
